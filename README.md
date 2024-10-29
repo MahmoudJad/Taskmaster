@@ -1,7 +1,6 @@
 **TaskMaster**🕴️
 
-TaskMaster is a streamlined and intuitive to-do management application designed to help users stay organized, prioritize tasks, and boost productivity. With TaskMaster, users can create, categorize, and track their tasks effortlessly.
-
+Taskmaster is a villain known for his ability to mimic any action he sees, which makes him an efficient and methodical fighter. The name fits well with a to-do app, as it implies efficiency, precision, and the mastery of tasks. 
 
 **Features**⭐
 
