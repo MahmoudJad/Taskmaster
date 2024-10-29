@@ -1,6 +1,6 @@
 **TaskMaster**🕴️
 
-Taskmaster is a villain known for his ability to mimic any action he sees, which makes him an efficient and methodical fighter. The name fits well with a to-do app, as it implies efficiency, precision, and the mastery of tasks. 
+Is a villain known for his ability to mimic any action he sees, which makes him an efficient and methodical fighter. The name fits well with a to-do app, as it implies efficiency, precision, and the mastery of tasks. 
 
 **Features**⭐
 
