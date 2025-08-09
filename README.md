@@ -19,7 +19,7 @@ Is a villain known for his ability to mimic any action he sees, which makes him 
 
 1.	Clone this repository:
    
-          git clone https://github.com/yourusername/taskmaster.git
+          git clone https://github.com/MahmoudJad/taskmaster.git
 
 3.  Navigate into the project directory:
    
